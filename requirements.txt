@@ -1,0 +1,2 @@
+pylogix==0.8.14
+requests==2.31.
