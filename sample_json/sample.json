@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "timestamp": "2023-06-19T07:49:05.183Z",
+            "sampleNumber": "EV",
+            "instrumentName": "1a499fc3",
+            "instrumentId": 0,
+            "productCode": "349",
+            "productName": "R Con ",
+            "values": [
+                {
+                    "name": "Cars",
+                    "dataType": "Double",
+                    "value": 11.184164
+                },
+                {
+                    "name": "Trucks",
+                    "dataType": "Double",
+                    "value": 5.0120697
+                },
+                {
+                    "name": "Boats",
+                    "dataType": "Double",
+                    "value": 1.5039325
+                },
+                {
+                    "name": "Bikes",
+                    "dataType": "Double",
+                    "value": 28.272316
+                }
+            ]
+        },
+        {
+            "timestamp": "2023-06-19T06:56:10.03Z",
+            "sampleNumber": "R1 CON",
+            "instrumentName": "11c1e121",
+            "instrumentId": 0,
+            "productCode": "349",
+            "productName": "R Con ",
+            "values": [
+                {
+                    "name": "Cars",
+                    "dataType": "Double",
+                    "value": 26.592033
+                },
+                {
+                    "name": "Trucks",
+                    "dataType": "Double",
+                    "value": 0.10062828
+                },
+                {
+                    "name": "Boats",
+                    "dataType": "Double",
+                    "value": 0.5609192
+                },
+                {
+                    "name": "Bikes",
+                    "dataType": "Double",
+                    "value": 27.869333
+                }
+            ]
+        },
+        {
+            "timestamp": "2023-06-19T06:52:43.4Z",
+            "sampleNumber": "M1 CON 2AM",
+            "instrumentName": "98d440d9",
+            "instrumentId": 0,
+            "productCode": "10",
+            "productName": "Ye",
+            "values": [
+                {
+                    "name": "Finished Trucks",
+                    "dataType": "Double",
+                    "value": 41.066246
+                },
+                {
+                    "name": "Finished Cars",
+                    "dataType": "Double",
+                    "value": 51.025314
+                },
+                {
+                    "name": "Boats",
+                    "dataType": "Double",
+                    "value": 0.9986108
+                },
+                {
+                    "name": "Bikes",
+                    "dataType": "Double",
+                    "value": 24.19832
+                },
+                {
+                    "name": "Trucks",
+                    "dataType": "Double",
+                    "value": 10.515706
+                },
+                {
+                    "name": "Cars",
+                    "dataType": "Double",
+                    "value": 13.065893
+                }
+            ]
+        },
+        {
+            "timestamp": "2023-06-19T06:50:51.583Z",
+            "sampleNumber": "M1 PERM 2AM",
+            "instrumentName": "dcb56e80",
+            "instrumentId": 0,
+            "productCode": "245",
+            "productName": "M Perm ",
+            "values": [
+                {
+                    "name": "Cars",
+                    "dataType": "Double",
+                    "value": 1.2868485
+                },
+                {
+                    "name": "Trucks",
+                    "dataType": "Double",
+                    "value": 0.03288286
+                },
+                {
+                    "name": "Boats",
+                    "dataType": "Double",
+                    "value": 0.5457685
+                },
+                {
+                    "name": "Bikes",
+                    "dataType": "Double",
+                    "value": 1.0577046
+                }
+            ]
+        },
+        {
+            "timestamp": "2023-06-19T06:48:43.52Z",
+            "sampleNumber": "M1 FEED 2AM",
+            "instrumentName": "853b7736",
+            "instrumentId": 0,
+            "productCode": "10",
+            "productName": "Ye",
+            "values": [
+                {
+                    "name": "Finished Trucks",
+                    "dataType": "Double",
+                    "value": 37.135498
+                },
+                {
+                    "name": "Finished Cars",
+                    "dataType": "Double",
+                    "value": 52.907627
+                },
+                {
+                    "name": "Boats",
+                    "dataType": "Double",
+                    "value": 0.86662585
+                },
+                {
+                    "name": "Bikes",
+                    "dataType": "Double",
+                    "value": 20.83693
+                },
+                {
+                    "name": "Trucks",
+                    "dataType": "Double",
+                    "value": 8.1882515
+                },
+                {
+                    "name": "Cars",
+                    "dataType": "Double",
+                    "value": 11.665952
+                }
+            ]
+        },
+        {
+            "timestamp": "2023-06-19T06:39:25.843Z",
+            "sampleNumber": "SI 5",
+            "instrumentName": "6de65073",
+            "instrumentId": 0,
+            "productCode": "349",
+            "productName": "R Con ",
+            "values": [
+                {
+                    "name": "Cars",
+                    "dataType": "Double",
+                    "value": 21.536558
+                },
+                {
+                    "name": "Trucks",
+                    "dataType": "Double",
+                    "value": 0.14403859
+                },
+                {
+                    "name": "Boats",
+                    "dataType": "Double",
+                    "value": 0.7404904
+                },
+                {
+                    "name": "Bikes",
+                    "dataType": "Double",
+                    "value": 23.007433
+                }
+            ]
+        },
+        {
+            "timestamp": "2023-06-19T06:34:05.837Z",
+            "sampleNumber": "SI 4",
+            "instrumentName": "4f0e707c",
+            "instrumentId": 0,
+            "productCode": "10",
+            "productName": "Ye",
+            "values": [
+                {
+                    "name": "Finished Trucks",
+                    "dataType": "Double",
+                    "value": 40.607185
+                },
+                {
+                    "name": "Finished Cars",
+                    "dataType": "Double",
+                    "value": 50.285217
+                },
+                {
+                    "name": "Boats",
+                    "dataType": "Double",
+                    "value": 0.99564415
+                },
+                {
+                    "name": "Bikes",
+                    "dataType": "Double",
+                    "value": 30.2098
+                },
+                {
+                    "name": "Trucks",
+                    "dataType": "Double",
+                    "value": 12.981322
+                },
+                {
+                    "name": "Cars",
+                    "dataType": "Double",
+                    "value": 16.0752
+                }
+            ]
+        }
+    ]
+}
